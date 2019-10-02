@@ -2,8 +2,6 @@
 
 starter template for safari mobile webapp
 
-![launch image](IMG_1020.gif)
-
 features:
 
 - web app capable meta tag for stand alone mode
